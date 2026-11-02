@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Project"
-nav_order: 9
-has_children: true
+parent: "Project"
+title: "Data Sources"
 ---
 
 # **Data Sources for Independent Data Science Projects**
