@@ -24,7 +24,7 @@ if you do, you will be responsible for completing four of the extended requireme
 
 ## Library Policy
 
-> **You must use the `datascience` library for all data manipulation and analysis. The use of `pandas` is strictly prohibited and will result in a score of zero for the affected components. You are free the use Matplotlib and Seaborn for visualization purposes.**
+> **You must use the `datascience` library for all data manipulation and analysis. The use of `pandas` is strictly prohibited and will result in a score of zero for the affected components. You are permitted to use Matplotlib for visualization purposes.**
 > 
 > All standard Python libraries (`numpy`, `matplotlib`, `scipy.stats`, etc.) are permitted where appropriate. When in doubt, ask staff.
 > 
