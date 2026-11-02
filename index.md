@@ -11,6 +11,7 @@ nav_order: 1
             width: 100%;
             border: none; /* Removes default ugly border */
             display: block; /* Removes inline spacing quirks */
+            height: 2800px;
         }
     </style>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRNG0i9F6wfoll8tMcGVIv2wXbiXsiOwCSBl2LkzQ4-q8pCvyQ2zW39qujCmqCUURAHbxVdGdzyaZBB/pub?embedded=true"></iframe>
