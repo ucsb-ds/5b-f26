@@ -86,8 +86,17 @@ Grades will be assigned using the following weighted components.
 
 The codes in the table correspond to the codes for the activities in the Canvas gradebook; for example, the In Class activities are numbered ic00, ic01, ic02, etc. while labs are numbered lab00, lab01, lab02, etc.
 
+Grades will be assigned using the following weighted components.  
 
-TODO: Update this
+The codes in the table correspond to the codes for the activities in the Canvas gradebook; for example, the In Class activities are numbered ic00, ic01, ic02, etc. while labs are numbered lab00, lab01, lab02, etc.
+
+| Assignment Category | Prefix Code | Percentage of Final Grade |
+|---------------------|-------------|---------------------------|
+| In class and Homework | `ic`, `h, `p` | 20% |
+| Labs and Quizzes | `lab`, `quiz` | 20% |
+| Project | `proj` | 30% |
+| Exams | `lab` | 30% |
+
 
 
 We will make every effort to post grades for  Projects, and Labs will be posted about 1 week after the assignment's due date.
