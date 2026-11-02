@@ -114,7 +114,7 @@ For the project, submission is always through Canvas, and not Gradescope
 
 | Checkpoint | Date | What to Show |
 |---|---|---|
-| Intermediate Check-in 1: Dataset chosen, repo created, data loaded, high level questions identified  | Friday, Week 6 |
+| Intermediate Check-in 1:  | Friday, Week 6 | Dataset chosen, repo created, data loaded, provenance and metadata in DATA.md, high level questions identified |
 | Intermediate Check-in 2 | Friday, Week 7 | Data cleaning begun, Null and Alternate Hypothesis identified, Pearson Correlation columns identified |
 | Intermediate Check-in 3 | Friday, Week 8 | Hypothesis testing and Pearson Correlation completed, including text explanations and interpretation; extended requirements identified.  |
 | **Final Submission** | **Friday, June 5, 2026, 11:59 PM** | Complete notebook, slides, and video |
