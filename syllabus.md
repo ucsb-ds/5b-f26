@@ -92,7 +92,7 @@ The codes in the table correspond to the codes for the activities in the Canvas 
 
 | Assignment Category | Prefix Code | Percentage of Final Grade |
 |---------------------|-------------|---------------------------|
-| In class and Homework | `ic`, `h, `p` | 20% |
+| In class and Homework | `ic`, `h`, `p` | 20% |
 | Labs and Quizzes | `lab`, `quiz` | 20% |
 | Project | `proj` | 30% |
 | Exams | `lab` | 30% |
